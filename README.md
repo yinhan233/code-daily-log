@@ -1,2 +1,2 @@
 # code-daily-log
-Record my code
+my rust learning code.
